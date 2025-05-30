@@ -7,6 +7,7 @@ This is my technical assessment for the Front-end Developer role at Juniper Educ
 For Part 1, I chose to recreate the **Tower House in Numbers (statistics area)** from the Adobe XD design provided.
 
 - The section was built using **HTML**, **CSS**, and **JavaScript**, with a strong focus on responsiveness, accessibility, and animation.
+- I used the CSS preprocessor SCSS to take advantage of its features for cleaner and more maintainable code.
 - I decided to use **Font Awesome** for the icons in line with common workplace practice. Since I do not have Font Awesome Pro, I used substitute icons as placeholders.
 - For the swipeable components, I chose to use **SwiperJS**, again in line with common workplace practice.
 
