@@ -18,3 +18,5 @@ With Part 1 using mostly **HTML** and **CSS**, I decided to focus primarily on *
 - It creates two plausible but incorrect answers alongside the correct answer, then shuffles all options randomly to avoid predictability.
 - The quiz tracks the user’s current streak and best streak, storing the best streak using **localStorage**.
 - I have also added comments throughout the **JavaScript** explaining what the code is doing.
+
+Live Version: [https://tomredgrave.github.io/technical-assessment/](https://tomredgrave.github.io/technical-assessment/)
