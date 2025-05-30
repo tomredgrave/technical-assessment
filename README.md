@@ -7,7 +7,7 @@ This is my technical assessment for the Front-end Developer role at Juniper Educ
 For Part 1, I chose to recreate the **Tower House in Numbers (statistics area)** from the Adobe XD design provided.
 
 - The section was built using **HTML**, **CSS**, and **JavaScript**, with a strong focus on responsiveness, accessibility, and animation.
-- I used the CSS preprocessor SCSS to take advantage of its features for cleaner and more maintainable code.
+- I wrote my styling using the **CSS** preprocessor **SCSS** to take advantage of its features for cleaner and more maintainable code.
 - I decided to use **Font Awesome** for the icons in line with common workplace practice. Since I do not have Font Awesome Pro, I used substitute icons as placeholders.
 - For the swipeable components, I chose to use **SwiperJS**, again in line with common workplace practice.
 
@@ -20,4 +20,7 @@ With Part 1 using mostly **HTML** and **CSS**, I decided to focus primarily on *
 - The quiz tracks the user’s current streak and best streak, storing the best streak using localStorage so it persists between sessions.
 - I have also added comments throughout the **JavaScript** explaining what the code is doing.
 
-Live Version: [https://tomredgrave.github.io/technical-assessment/](https://tomredgrave.github.io/technical-assessment/)
+## Live Version
+
+View the live site here:
+[https://tomredgrave.github.io/technical-assessment/](https://tomredgrave.github.io/technical-assessment/)
